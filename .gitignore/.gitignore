@@ -1,0 +1,7 @@
+scss/
+*.css.map
+.idea
+*.*~
+node_modules
+package.json
+gulpfile.js
